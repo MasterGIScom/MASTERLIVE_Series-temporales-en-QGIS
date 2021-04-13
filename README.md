@@ -1,4 +1,4 @@
-  # Series Temporales en QGIS
+  # Series Temporales en QGIS {style=text-align:center}
 <p align="center">
   Visualización y análisis de series temporales de imágenes satelitalesen QGIS a través del catálogo de datos de Google Earth Engine
   <br><br>
