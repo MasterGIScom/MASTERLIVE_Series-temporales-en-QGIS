@@ -1,6 +1,6 @@
   # Series Temporales en QGIS 
 <p align="center">
-  Visualización y análisis de series temporales de imágenes satelitalesen QGIS a través del catálogo de datos de Google Earth Engine
+  Visualización y análisis de series temporales de imágenes satelitalesen QGIS a través del catálogo de datos de Google Earth Engine.
   Disponible en  <a href="https://www.youtube.com/watch?v=8rq-0rT_phg&t=1s" target = "_blank">Youtube</a>
  
   <br><br>
